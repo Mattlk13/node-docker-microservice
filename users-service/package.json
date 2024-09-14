@@ -16,13 +16,13 @@
   "author": "Dave Kerr, dwmkerr@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "morgan": "^1.9.1",
-    "mysql": "^2.17.1"
+    "mysql": "^2.18.0"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
-    "mocha": "^6.2.2",
+    "mocha": "^10.7.3",
     "should": "^13.2.3",
     "supertest": "^4.0.2"
   },
